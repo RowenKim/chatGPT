@@ -2,7 +2,6 @@
 
 ## 참고 링크
 * [ChatGPT API-Key 생성](https://platform.openai.com/account/api-keys).
-* [ChatGPT API Code](https://gist.github.com/gantoin/190684c344bb70e5c5f9f2339c7be6ed).
 
 ## Skills
 - Java
